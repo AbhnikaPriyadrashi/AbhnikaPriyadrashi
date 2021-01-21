@@ -19,7 +19,7 @@ $(document).ready(function () {
     var element = $(".text-affect");
     $(function () {
         element.typed({
-            strings: ["B.sc(Agriculture)"],
+            strings: ["B.Sc(Agriculture)"],
             loop: true,
             typeSpeed: 90
         });
